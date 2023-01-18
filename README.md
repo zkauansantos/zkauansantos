@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/zkauansantos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zkauansantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkauansantos&layout=compact&langs_count=6&theme=light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkauansantos&layout=compact&langs_count=6&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
     <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

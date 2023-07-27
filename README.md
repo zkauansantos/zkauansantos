@@ -21,6 +21,7 @@
     <img alt="Firebase" height="30" width="40" src="https://heropy.blog/css/images/vendor_icons/firebase.png">
     <img alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img alt="Angular" height="30" width="40" src="      https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 </div>
  
  <br>
